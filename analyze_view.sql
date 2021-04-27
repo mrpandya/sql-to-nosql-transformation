@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT * FROM nosql_schema_view;
